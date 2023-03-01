@@ -1,0 +1,134 @@
+
+/* 
+    Created on : Apr 12, 2022, 2:01:58 PM
+    Author     : DINHDAT
+*/
+
+.card{
+    margin-top: 40px;
+}
+.tab-content{
+    border-bottom:#EEEEEE 1px solid;
+    border-right:#EEEEEE 1px solid;
+    border-left:#EEEEEE 1px solid;
+}
+#myTab{
+    margin-top: 5cm;
+}
+#myTab,#read{
+    position: absolute;
+}
+li,#log {
+    position: absolute;
+}
+li,#add {
+    position: absolute;
+}
+li  {
+    margin-left: 17cm;
+}
+li > p{
+    color: #df0633;
+    font-family: Comic Sans MS;
+    font-size: 35px;
+    font-weight: 800;
+    font-style: oblique;
+}
+body{
+    background-image: url("https://lincolncathedral.com/wp-content/uploads/2015/09/old-library-4190.jpg");
+    background-size: cover;
+}
+.container {
+    padding: 2rem 0rem ;
+    margin-left: 2cm;
+
+}
+@media (min-width: 576px) {
+    .modal-dialog {
+        max-width: 400px;
+    }
+    .modal-dialog .modal-content {
+        padding: 1rem;
+    }
+}
+.modal-header .close {
+    margin-top: -1.5rem;
+}
+
+.form-title {
+    margin: -2rem 0rem 2rem;
+}
+
+.btn-round {
+    border-radius: 3rem;
+}
+.delimiter {
+    padding: 1rem;
+}
+.social-buttons .btn {
+    margin: 0 0.5rem 1rem;
+}
+.signup-section {
+    padding: 0.3rem 0rem;
+}
+#read{
+    margin-left: 5cm;
+    padding-top: 2cm;
+    font-family:Book Antiqua;
+    font-weight: 600;
+    font-size: 66px;
+    color: white;
+}
+#search{
+    margin-left: 29.8cm;
+    margin-top: 7cm;
+   
+}
+#log{
+    margin-left: 32cm;
+    width: 3cm;
+    margin-bottom: 2cm;
+}
+#search, #log{
+    position: absolute;
+}
+#search,li{
+    position: absolute;
+}
+#password{
+    width: 8.5cm;
+}
+#togglePassword{
+    height: 2.4rem;
+    font-size: 14px;
+}
+.tabbable{
+    height: 5cm;
+    background-image: url("https://lincolncathedral.com/wp-content/uploads/2015/09/old-library-4190.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#add{
+    margin-left: 5cm;
+}
+.mess > p {
+    font-size: 20px;
+    color: #e70404;
+    margin-left: 25cm;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    opacity: 80%;
+}
+#text{
+    margin-top: 2cm;
+    color: white;
+    font-size: 35px;
+}
+#re{
+     color: white;
+     font-size: 20px;
+     font-weight: 600;
+}
+.back{
+    margin-top: 2rem;
+}

@@ -1,0 +1,44 @@
+
+/* 
+    Created on : Apr 15, 2022, 2:30:05 PM
+    Author     : DINHDAT
+*/
+
+#body {
+    background-image: url("http://wallup.net/wp-content/uploads/2017/11/17/357632-library-books-laptop-table.jpg");
+    background-size: cover;
+
+}
+#login .container #login-row #login-column #login-box {
+    margin-top: 100px;
+    max-width: 600px;
+    height: 480px;
+    border: 1px solid #9C9C9C;
+    background-color: #FFFFFF;
+    opacity: 93%;
+    border-radius: 20px
+}
+#login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -50px;
+}
+#password{
+    width: 10cm;
+}
+#togglePassword{
+    font-size: 14px;
+}
+#sign{
+    width: 3cm;
+    margin-left: 5cm;
+}
+.mess{
+    height: 50px;
+    color: red;
+    margin: 0;
+}
+#back{
+    margin-left: 3cm;
+}
